@@ -1,0 +1,24 @@
+Main Control
+ESP32-S3-DevKitC-1 ----------------
+Power Supply
+Hi-Link HLK-PM5 AC-DC Power Module--
+Real Time Clock
+DS3231 RTC Module-------------------
+Audio DAC
+PCM5102A I2S DAC Module-------------
+Storage
+Micro SD Card Module ---------------
+Display
+16x2 LCD Display with I2C Backpack
+User Controls
+4 × Momentary Push Buttons---------
+Indicators
+3 × LEDs (Red, Green, Blue)--------
+Audio Output
+3.5mm Panel Mount Audio Jack-------
+Power Regulation
+5V → 3.3V Buck Converter Module----
+Passive Components
+10kΩ Resistors (for buttons)-------
+330Ω Resistors (for LEDs)----------
+5v pizzo buzzer -------------------
