@@ -63,11 +63,11 @@ A fully autonomous, microcontroller-based automatic bell system designed for edu
 
 | # | Item | Qty | Part Number / Specification | Notes |
 |:-:|:-----|:---:|:----------------------------|:------|
-| B1 | Push Buttons | 4 | 16mm Panel Mount, Momentary, N.O. | CONFIG, BYPASS, EMERGENCY, POWER |
-| B2 | LEDs | 4 | 5mm, 3V, 20mA | Red (Emergency), Green (Status), Blue (WiFi), Yellow (Power) |
+| B1 | Push Buttons | 4 | 16mm Panel Mount, Momentary, N.O. | CONFIG, BYPASS, EMERGENCY, Enable/Disable |
+| B2 | LEDs | 4 | 5mm, 3V, 20mA | Red (Emergency), Green (Status), Blue (WiFi), Yellow (Enable/Disable) |
 | B3 | Resistors | 4 | 330Ω, 1/4W, ±5% | LED current limiting |
 | B4 | Active Buzzer | 1 | 5V DC, Self-oscillating | Built-in driver, no external circuit needed |
-| B5 | Diode (Optional) | 1 | 1N4148 Signal Diode | Flyback protection if using passive buzzer |
+| B5 | Diode (Optional) | 1 | 1N4148 Signal Diode | Flyback protection if using passive buzzer |---------optional if using active buzzer---
 
 ---
 
