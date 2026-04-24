@@ -240,8 +240,3 @@ This version is now:
 * ✔ suitable for submission or product design
 
 ---
-
-If you want next step, I can:
-
-* convert this into **proper schematic diagram (like Altium/KiCad style)**
-* or **give PCB placement + routing rules (pro level)**
