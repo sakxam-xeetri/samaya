@@ -1,0 +1,40 @@
+AUTOMATIC SCHOOL / COLLEGE BELL SYSTEM FEATURES
+
+- Fully Offline Operation (No Internet Required)
+- 7-Day Programmable Schedule
+- Winter / Summer Preset Timetable
+- Special Day Preset Support
+- Priority Based Schedule Resolution
+- MicroSD Card Based Audio Storage
+- MP3 / WAV Audio File Support
+- Preloaded Bell and Announcement Sounds
+- External PA Amplifier Compatible Output
+- Clean Line-Level Audio Output
+- Emergency Siren Button (Long Press Protection)
+- Emergency Announcement Playback
+- Manual "Next Bell" Trigger
+- Config Mode Hotspot Button
+- System Enable / Disable Switch
+- Status LEDs (Power / Status / Emergency/enable)
+- 16x2 LCD Status Display
+- Time + Next Bell Display
+- System Mode Display
+- Mobile Friendly Offline Web UI
+- Automatic Time Sync from Phone
+- DS3231 RTC High Accuracy Timekeeping
+- RTC Battery Backup (Up to 5 Years)
+- RTC Invalid Time Detection
+- Auto Resume Schedule After Restart
+- Missed Bell Handling Logic
+- Audio File Missing Fallback
+- buzzer for feedback 
+- SD Card Health Check
+- SD Card Removal Detection
+- OTA Firmware Update
+- Safe Rollback OTA Support
+- External Amplifier Audio Jack Output
+- Industrial AC-DC Power Module
+- Isolated Power Supply Design
+- Fuse Protection
+- Audio Mute When Idle
+- Low Maintenance Operation
