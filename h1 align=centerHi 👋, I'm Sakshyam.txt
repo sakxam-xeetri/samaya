@@ -1,0 +1,82 @@
+<h1 align="center">Hi 👋, I'm Sakshyam Bastakoti</h1>
+<h3 align="center">AI & Robotics Innovator | Full-Stack Developer | IoT Specialist</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&repeat=true&width=535&lines=AI+%26+Robotics+Innovator;Full-Stack+Developer;IoT+%26+Embedded+Systems+Specialist;Tech+Mentor+%26+Cyber-Security+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshyambastakoti/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/sakxam-xeetri" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.youtube.com/@TechWorldXYZ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.instagram.com/sakxam_console.log" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently building intelligent systems at the intersection of **software and hardware**.
+- 🌱 I specialize in **Full-Stack Development, AI, Robotics, and IoT** (ESP32, Arduino, Raspberry Pi).
+- 💬 Ask me about **System Architecture, Embedded Systems, and AI integrations**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sakshyambastakoti/) or [Instagram](https://www.instagram.com/sakxam_console.log).
+- ⚡ Fun fact: I love bringing ideas to life by bridging software intelligence with hardware control.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,python,arduino,raspberrypi,linux,git,docker,supabase,figma" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+       <img src="https://github-readme-stats.shion.dev/api?username=sakxam-xeetri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Sakshyam's GitHub stats" height="192px"/>
+    </td>
+    <td align="center">
+       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sakxam-xeetri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="192px"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sakxam-xeetri&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sakxam-xeetri&theme=radical&row=1&column=6&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sakxam-xeetri&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakxam-xeetri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
