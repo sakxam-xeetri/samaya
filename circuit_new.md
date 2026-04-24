@@ -330,7 +330,7 @@ HLK-PM5
  |
  +--- ESP32-S3
  |      |
- |      +---  3.3 volt RTC
+ |      +--- volt RTC
  |      +--- LCD
  |      +--- SD Card
  |      +--- DAC
