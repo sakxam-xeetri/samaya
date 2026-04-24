@@ -1,7 +1,7 @@
 Main Control
 ESP32-S3-DevKitC-1 ----------------
 Power Supply
-Hi-Link HLK-PM5 AC-DC Power Module--
+
 Real Time Clock
 DS3231 RTC Module-------------------
 Audio DAC
